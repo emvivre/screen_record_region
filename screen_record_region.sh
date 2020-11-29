@@ -1,5 +1,6 @@
 #!/bin/sh
 
+set -eu
 
 align_4()
 {
