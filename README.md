@@ -14,3 +14,5 @@ Exemple of usage:
 ```
 Then select the region to record. You can stop anytime the recording by typing ``q``
 
+The following is a video demonstration of the tool :
+![Video demonstration](https://github.com/emvivre/screen_record_region/raw/master/demo.gif)
